@@ -14,6 +14,7 @@ La chambre de l'heroine, aussi le point central du jeu.
 	* **Shopping**
 	* **Jeux**
 	* **Nourrir**
+	* **Laver**
 * Barre d'Affection
 * Barre de Satiete
 * Barre de temps (heure + date + jour/nuit)
@@ -27,8 +28,8 @@ La chambre de l'heroine, aussi le point central du jeu.
 * Achat de nourriture
 
 ===== Jeux =====
-* Petits jeux a faire avec son animal
-* Coute des points des **Satiete**
+* Petits [[Chambre:Mini Jeux|Jeux]] a faire avec son animal
+* Coute des points de **Satiete**
 * Rapporte de l'argent
 * Coute du temps (__2h__)
 
@@ -37,6 +38,9 @@ La chambre de l'heroine, aussi le point central du jeu.
 * __3h__ entre chaque repas minimum
 * Nourriture base => augmente la **Barre de Satiete** selon [[Animal:Preferences]]
 * Nourriture speciale => pareil mais avec effets
+
+===== Laver =====
+* Laver 1x par jour le tamagotchi, si il est sale il refusera de jouer ou de sortir
 
 ===== Sortir =====
 * Choisir un lieu selon ceux disponibles (selon **Heure**)

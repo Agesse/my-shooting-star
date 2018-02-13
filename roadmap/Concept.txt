@@ -9,6 +9,7 @@ On est une jeune **fille** a l'**ecole.**
 
 On s'occupe d'un **animal** fantastique qu'on appelle un **Voeux** (//Wish//).
 D'abord oeuf, puis bebe et enfin adulte, on le **nourrit** (pour lui permettre de faire plus d'actions), on le **caline** (augmente son affection, sert a avancer dans le jeu) et on **joue** avec lui (permet de gagner de l'argent et l'entrainer).
+Il faut aussi le **laver** pour qu'il soit propre.
 L'animal gagne des preferences (culinaires, de calins ou de jeux).
 
 On resoud des **quetes** d'amitie grace au Voeux.

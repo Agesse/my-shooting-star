@@ -1,0 +1,86 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-13T15:53:16+01:00
+
+====== Mini Jeux ======
+Créée le mardi 13 février 2018
+
+Liste des mini jeux avec lesquels on peut s'amuser avec son animal.
+__MAYBE__: ajouter des niveaux de difficultes aux jeux ?
+
+===== Simon: Jeu de danse =====
+
+==== Principe ====
+Jeu dans lequel on imite les mouvements de danse de l'animal (droite, gauche, haut, bas).
+* L'animal execute un mouvement aleatoirement A
+* Le joueur doit faire le mouvement A
+* L'animal execute A + B (nouveau mouvement aleatoire)
+* Le joueur doit faire le mouvement A + B
+* ...
+
+==== Fin du jeu ====
+* Le joueur rate un mouvement => **perdu**
+* Le joueur atteind __nMax__ mouvements => **gagne**
+
+===== Memory: Jeu de memoire =====
+
+==== Principe ====
+* 12 paires de cartes sont melangees aleatoirement sur une grille de 6x4
+* Le joueur retourne 2 cartes
+	* Si elles sont identiques, elles restent visibles
+	* Sinon, elles se retournent
+
+==== Fin du jeu ====
+* Le joueur atteind __nMax__ mouvements sans retourner toutes les cartes => **perdu**
+* Le joueur a retourne toutes les cartes => **gagne**
+
+===== Blackjack: Jeu de carte =====
+
+==== Principe ====
+Points :
+- 2 a 9 > valeur fixe
+- 10 ou figure > 10
+- As > 1 ou 11
+- Blackjack > As + (10 | figure)
+
+* Les 2 joueurs recoivent 1 carte face visible
+* L'animal recoit 1 carte face cachee, le joueur 1 carte face visible.
+* Tour du joueur : 
+	* "Carte !" > distribue 1 carte de plus, tour du joueur
+	* "Reste" > tour de l'animal
+	* "Double" >double ses chances, recoit 1 carte,  tour de l'animal
+* Tour de l'animal :
+	* Valeur < 17 > Tire, tour de l'animal
+	* Valeur >= 17 > Reste
+* Comparaison des valeurs:
+	* Blackjack > 21 puis valeurs dans l'ordre
+
+==== Fin du tour ====
+* Depasse 21 => **perdu (x2 si double)**
+* Blackjack => **gagne x2**
+* Joueur >animal | animal > 21 => **gagne (x2 si double)**
+Le joueur gagne 1 point si il a gagne, perd 1 si perd en doublant, et gagne 2 points s'il a un Blackjack ou double.
+
+==== Fin du jeu ====
+Se joue en 10 parties.
+
+===== Pic'Pirate: Jeu de chance =====
+
+==== Principe ====
+Tour a tour, les joueurs tentent leur chance a essayer de __??? (nMax__ au total).
+Si on tombe sur le piege, on meurt.
+Si l'autre tombe sur le piege, on gagne.
+Si on arrive a trouver le tresor apres la mort de l'autre, on gagne x2
+
+
+
+===== Gains =====
+
+==== Coefficient reussite ====
+__TODO__
+
+==== Calcul ====
+Le joueur gagne: n x coef + bonus
+* n = nombre de mouvements reussis / nombre de mouvements restants avant la fin /
+* coefficient de reussite
+* bonus si gagne

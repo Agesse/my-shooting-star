@@ -9,7 +9,8 @@ Créée le lundi 12 février 2018
 On est une jeune fille qui va entrer au lycee, qui se sent seule et manque d'amis.
 La veille de la rentree des classes, a notre fenetre, on voit passer une etoile filante, on fait alors le voeux de pouvoir se lier d'amitie pour la nouvelle annee.
 L'etoile filante s'ecrase dans notre jardin, on y decouvre un oeuf avec un __NOM_DEVICE__ pour s'en occuper.
-On le ramene dans notre chambre...
+Un texte s'affiche : En s'occupant du "Wish", notre voeux pourra se realiser...
+On le ramene dans notre chambre.
 
 ===== Debut de jeu =====
 L'animal grandit, ne parle pas mais devient tres lie a nous.

@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T11:06:52+01:00
+
+====== Chambre ======
+Créée le lundi 12 février 2018
+
+La chambre de l'heroine, aussi le point central du jeu.
+
+===== Features =====
+* Fond
+* Animal (toucher pour **Caliner**)
+* Console 
+	* **Shopping**
+	* **Jeux**
+	* **Nourrir**
+* Barre d'Affection
+* Barre de Satiete
+* Barre de temps (heure + date + jour/nuit)
+* Bouton **Sortir** / **Dormir** si trop tard
+
+===== Caliner =====
+* Autant de fois que l'on veut mais plus d'effets au bout de __??__x par jour
+* Augmente la **Barre d'Affection**
+
+===== Shopping =====
+* Achat de nourriture
+
+===== Jeux =====
+* Petits jeux a faire avec son animal
+* Coute des points des **Satiete**
+* Rapporte de l'argent
+* Coute du temps (__2h__)
+
+===== Nourrir =====
+* __3x__ par jour maximum
+* __3h__ entre chaque repas minimum
+* Nourriture base => augmente la **Barre de Satiete** selon [[Animal:Preferences]]
+* Nourriture speciale => pareil mais avec effets
+
+===== Sortir =====
+* Choisir un lieu selon ceux disponibles (selon **Heure**)
+
+===== Dormir =====
+* Changer de jour

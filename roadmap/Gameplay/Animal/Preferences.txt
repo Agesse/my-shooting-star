@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T11:16:41+01:00
+
+====== Preferences ======
+Créée le lundi 12 février 2018
+
+===== Calins =====
+Pas de preference pour les calins.
+
+===== Nourriture =====
+Niveau de plaisir a manger une nourriture.
+Depend de l'espece de l'animal.
+Ne veut pas manger 2x de suite la meme chose SAUF nourriture de base.
+* Deteste => 0 satiete, ne disparait pas de l'inventaire
+* Neutre => n satiete
+* Aime => n * 1.5 satiete
+* Adore => n * 2 satiete

@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T11:28:49+01:00
+
+====== Animal ======
+Créée le lundi 12 février 2018
+
+L'animal dont on s'occupe.
+
+===== Caracteristiques =====
+* Nom
+* Apparence
+* Niveau affection
+* Niveau satiete
+* Preferences
+* Age
+
+===== Preferences =====
+
+==== Nourriture ====
+Change le ratio d'efficacite sur la satiete.
+Depend de l'animal choisi et de son age.
+Se base sur le regime alimentaire de l'animal (carnivore, vege, ...)
+
+===== Niveau Affection =====
+* Determine l'**Age **de l'animal
+* Nombre de jeux accessibles
+* Types de nourritures accessibles
+* Types d'objets accessibles
+* Trigger les quetes
+
+===== Niveau Satiete =====
+Nombre d'actions faisables par jour.
+
+===== Age =====
+
+==== Oeuf ====
+* Pas de jeu possible
+* Pas de nourriture => chaleur
+* Calins => 1 seul choix
+
+==== Bebe ====
+* Debloque 1 jeu
+* Nourriture => lait
+* Calins => plus de choix
+
+==== Adulte ====
+* Aucunes restrictions
+* Debloque les quetes

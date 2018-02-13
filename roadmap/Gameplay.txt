@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T11:00:04+01:00
+
+====== Gameplay ======
+Créée le lundi 12 février 2018
+
+===== Demarrage =====
+* Ecran de jeu :
+	* Nouvelle partie
+	* Continuer
+	* Options
+
+===== Nouvelle Partie =====
+
+==== Intro ====
+1. Scene d'introduction
+2. Choix animal
+3. Nommer animal
+4. [[+Chambre|Chambre]]

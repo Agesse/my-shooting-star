@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T10:42:22+01:00
+
+====== Concept ======
+Créée le lundi 12 février 2018
+
+On est une jeune **fille** a l'**ecole.**
+
+On s'occupe d'un **animal** fantastique qu'on appelle un **Voeux** (//Wish//).
+D'abord oeuf, puis bebe et enfin adulte, on le **nourrit** (pour lui permettre de faire plus d'actions), on le **caline** (augmente son affection, sert a avancer dans le jeu) et on **joue** avec lui (permet de gagner de l'argent et l'entrainer).
+L'animal gagne des preferences (culinaires, de calins ou de jeux).
+
+On resoud des **quetes** d'amitie grace au Voeux.

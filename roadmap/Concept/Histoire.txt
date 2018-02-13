@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-12T10:50:35+01:00
+
+====== Histoire ======
+Créée le lundi 12 février 2018
+
+===== Intro =====
+On est une jeune fille qui va entrer au lycee, qui se sent seule et manque d'amis.
+La veille de la rentree des classes, a notre fenetre, on voit passer une etoile filante, on fait alors le voeux de pouvoir se lier d'amitie pour la nouvelle annee.
+L'etoile filante s'ecrase dans notre jardin, on y decouvre un oeuf avec un __NOM_DEVICE__ pour s'en occuper.
+On le ramene dans notre chambre...
+
+===== Debut de jeu =====
+L'animal grandit, ne parle pas mais devient tres lie a nous.
+Ne supportant pas de rester seul la journee, on l'emmene au lycee avec nous.
+On se rend alors compte qu'il a des pouvoirs qui peuvent nous permettre de lier des amities avec nos nouveaux camarades de classe !
+
+===== Milieu de jeu =====
+On aide de plus en plus de monde et on devient appreciee, on se fait des amis.
+
+===== Fin de jeu =====
+L'annee scholaire finit, et l'animal repart dans l'espace sous forme d'etoile apres nous avoir aide...

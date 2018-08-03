@@ -47,3 +47,18 @@ Nombre d'actions faisables par jour.
 ==== Adulte ====
 * Aucunes restrictions
 * Debloque les quetes
+
+===== Apparence =====
+Au choix parmi les 12 signes du zodiaque :
+* Belier => mouton moelleux
+* Taureau => vache 
+* Gemeaux => 1 ecureuil bi-colore ou 2 ecureuils
+* Cancer => crabe
+* Lion => lion
+* Vierge => fee, renard
+* Balance => panda yin-yang
+* Scorpion => scorpion
+* Sagittaire => cheval ou centaure
+* Capricorne => chevre a queue de poisson
+* Verseau => ??
+* Poisson => poisson type carpe koi

@@ -7,6 +7,7 @@ Créée le mardi 13 février 2018
 
 Liste des mini jeux avec lesquels on peut s'amuser avec son animal.
 __MAYBE__: ajouter des niveaux de difficultes aux jeux ?
+__TODO__: Balancer les gains pour que les gains soient proportionnels au temps du mini-jeu
 
 ===== Simon: Jeu de danse =====
 
@@ -72,6 +73,17 @@ Si on tombe sur le piege, on meurt.
 Si l'autre tombe sur le piege, on gagne.
 Si on arrive a trouver le tresor apres la mort de l'autre, on gagne x2
 
+===== Demineur: Jeu de deduction =====
+
+==== Principe ====
+Le joueur doit deviner les couleurs des etoiles grace a des indices en un nombre de tour minimal.
+Il y a 5 etoiles a deviner, et 6 couleurs possibles.
+Les indices sont de trois couleurs :
+- Noir > bonne couleur au bon endroit
+- Blanc > bonne couleur au mauvais endroit
+- Neutre > mauvaise couleur
+
+===== Mastermind: Jeu de deduction =====
 
 
 ===== Gains =====
